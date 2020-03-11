@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1542274502 source:d:\ctdl\final\baitaplon\main.cpp
+	"xuly.h"
+	"giaodien.h"
+
+1542204690 d:\ctdl\final\baitaplon\xuly.h
+	<bits/stdc++.h>
+	<windows.h>
+	<fcntl.h>
+	<io.h>
+	<locale>
+	<codecvt>
+
+1542274599 d:\ctdl\final\baitaplon\giaodien.h
+	<bits/stdc++.h>
+	<windows.h>
+	<Wincon.h>
+	<wchar.h>
+	<dir.h>
+	<dos.h>
+	<MMSystem.h>
+	<utility>
+	<conio.h>
+
+1567935587 source:d:\study\hk3\ctdl\ctdl\dothuylinh_nguyentandat_ailatrieuphu\baitaplon\main.cpp
+	"xuly.h"
+	"giaodien.h"
+
+1542204690 d:\study\hk3\ctdl\ctdl\dothuylinh_nguyentandat_ailatrieuphu\baitaplon\xuly.h
+	<bits/stdc++.h>
+	<windows.h>
+	<fcntl.h>
+	<io.h>
+	<locale>
+	<codecvt>
+
+1542274599 d:\study\hk3\ctdl\ctdl\dothuylinh_nguyentandat_ailatrieuphu\baitaplon\giaodien.h
+	<bits/stdc++.h>
+	<windows.h>
+	<Wincon.h>
+	<wchar.h>
+	<dir.h>
+	<dos.h>
+	<MMSystem.h>
+	<utility>
+	<conio.h>
+
